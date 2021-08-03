@@ -53,11 +53,11 @@ function draw() {
   text("EPIC ARCHERY", width / 2, 100);
 
  
-  playerBase.display();
-  player.display();
+  PlayerBase.display();
+  Player.display();
   
 
-  computerBase.display();
-  computer.display();
+  ComputerBase.display();
+  Computer.display();
   
 }
